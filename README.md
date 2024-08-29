@@ -6,3 +6,7 @@ wget https://raw.githubusercontent.com/Dropxtor/nillion/main/nada.sh && chmod +x
 ```bash
 wget https://raw.githubusercontent.com/Dropxtor/nillion/main/nada_mlp_script.sh && chmod +x nada_mlp_script.sh && ./nada_mlp_script.sh
 ```
+Run node 
+```bash
+wget https://raw.githubusercontent.com/Dropxtor/nillion/main/Nillion/nillion.sh && chmod +x nillion.sh && ./nillion.sh
+```
